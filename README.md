@@ -11,8 +11,8 @@ The Super Store Sales dataset includes transactional data from a retail store, c
 
 # Tools and Libraries
 
-#Python:-                  Primary programming language used for the analysis.
-#Pandas:-                  For data manipulation and analysis.
+### Python:-                  Primary programming language used for the analysis.
+### Pandas:-                  For data manipulation and analysis.
 Matplotlib & Seaborn:-    For data visualization.
 Plotly:-                  For interactive visualization.
 Jupyter Notebook:-        To document the analysis process.
