@@ -1,3 +1,5 @@
+# Super Store Sales:
+
 This repository contains an exploratory data analysis (EDA) of the Super Store Sales dataset. The analysis aims to uncover key insights and trends in sales performance across different regions, categories, and customer segments.
 
 # Overview
