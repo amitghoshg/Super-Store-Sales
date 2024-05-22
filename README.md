@@ -16,7 +16,7 @@ The Super Store Sales dataset includes transactional data from a retail store, c
 ### 2)  Pandas:-                  For data manipulation and analysis.
 ### 3)  Matplotlib & Seaborn:-    For data visualization.
 ### 4)  Plotly:-                  For interactive visualization.
-### 5)  Jupyter Notebook:-        To document the analysis process.
+### 5)  Jupyterlab:-              To document the analysis process.
 
 # Results
 The EDA reveals important insights, such as the most profitable regions and product categories, most selling products and customer purchasing behavior. These findings can help drive better business decisions and strategies.
