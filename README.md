@@ -8,7 +8,6 @@ The Super Store Sales dataset includes transactional data from a retail store, c
 ### 1> Data Cleaning:-                Handling missing values and ensuring data consistency.
 ### 2> Descriptive Statistics:-       Summarizing key metrics like sales upon years,top sales generating region and discount top customer etc.
 ### 3> Visualization:-                Using charts and graphs to illustrate sales performance by category, region and state.
-### 4> Problem Analysis:-             In this store, a significant problem has been detected with the shipping methods; most of them are not efficient, resulting in considerable delays.
 
 
 # Tools and Libraries
