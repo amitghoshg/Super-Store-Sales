@@ -1,24 +1,12 @@
-# Super Store Sales:
+Key Features
+Data Analysis:
+Utilized Pandas to clean, process, and analyze the e-commerce dataset.
 
-This repository contains an exploratory data analysis (EDA) of the Super Store Sales dataset. The analysis aims to uncover key insights and trends in sales performance across different regions, categories, and customer segments.
+Interactive Visualizations:
+Created dynamic charts and graphs using Plotly to gain insights into sales trends, customer behavior, and product performance.
 
-# Overview
-The Super Store Sales dataset includes transactional data from a retail store, covering various aspects such as sales, top customer, top sales generating regions and shipping information. This EDA project focuses on:
+Business Reporting:
+Summarized findings in a comprehensive PowerPoint presentation, providing actionable insights for decision-making.
 
-### 1> Data Cleaning:-                Handling missing values and ensuring data consistency.
-### 2> Descriptive Statistics:-       Summarizing key metrics like sales upon years,top sales generating region and discount top customer etc.
-### 3> Visualization:-                Using charts and graphs to illustrate sales performance by category, region and state.
-
-
-# Tools and Libraries
-
-### 1)  Python:-                  Primary programming language used for the analysis.
-### 2)  Pandas:-                  For data manipulation and analysis.
-### 3)  Matplotlib & Seaborn:-    For data visualization.
-### 4)  Plotly:-                  For interactive visualization.
-### 5)  Jupyterlab:-              To document the analysis process.
-
-# Results
-The EDA reveals important insights, such as the most profitable regions and product categories, most selling products and customer purchasing behavior. These findings can help drive better business decisions and strategies.
-
-Feel free to explore the notebooks and contribute to the project!
+Tools and Libraries
+Python (Pandas, Plotly) Jupyter Lab PowerPoint
